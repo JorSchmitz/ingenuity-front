@@ -4,8 +4,8 @@ import './styles/Banner.css'
 const Banner = () => {
   return (
     <main id='home' className='banner'>
-      <video className='banner__video-phone' src='/Final.mp4' autoPlay muted loop playsInline>Your browser does not support videos</video>
-      <video className='banner__video-desktop' src='/Final2.mp4' autoPlay muted loop playsInline>Your browser does not support videos</video>
+      <video className='banner__video-phone' src='Final.mp4' autoPlay muted loop playsInline>Your browser does not support videos</video>
+      <video className='banner__video-desktop' src='Final2.mp4' autoPlay muted loop playsInline>Your browser does not support videos</video>
       <div className='banner__scroll'>
         <img src="Grupo 971.svg" alt="" />
         <hr />

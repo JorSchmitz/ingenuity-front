@@ -5,7 +5,7 @@ const Memories = () => {
   return (
     <main id='memories' className='memories'>
       <div className='memories__title'>
-        <img src='/Grupo54.svg' />
+        <img src='Grupo54.svg' />
         <h2>Memories</h2>
       </div>
       <div className='memories__gallery'>

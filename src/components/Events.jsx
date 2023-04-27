@@ -5,7 +5,7 @@ const Events = () => {
   return (
     <main id='events' className='events'>
       <div className='events__title'>
-        <img src='/Grupo54.svg' />
+        <img src='Grupo54.svg' />
         <h2>EVENTS</h2>
       </div>
       <div className='events__container'>
